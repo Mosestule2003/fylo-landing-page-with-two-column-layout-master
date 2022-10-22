@@ -35,7 +35,7 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [](https://github.com/Mosestule2003/fylo-landing-page-with-two-column-layout-master)
 - Live Site URL: []()
 
 ## My process
